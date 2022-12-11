@@ -25,7 +25,7 @@ library(randomForest)
 # plot(HeartDisease, xlab="Heart Disease", ylab="Frequency", main="Heart Disease Distribution")
 # The "HeartDisease" variable is highly unbalanced
 
-# data Restructuring
+# data restructuring
 # create dummy variables
 # new_df = dummy_cols(df, remove_first_dummy=TRUE, remove_selected_columns=TRUE)
 # reorder columns
