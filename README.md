@@ -9,5 +9,6 @@ Team members: JianHui (Jake) Li, Richard Lim, Jianhong Li, Dev Patel
 3. Used SMOTE to create a balanced dataset
 4. Implemented 3 different machine learning algorithms (logistic regression, classification tree (decision tree), and random forest)
 5. Evaluated model performance using confusion matrix to get the accuracy and recall score
+6. Make conclusions based on the best model
 
 Dataset: [Personal Key Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
