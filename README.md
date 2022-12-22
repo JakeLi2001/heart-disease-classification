@@ -62,6 +62,8 @@ The Mean Decrease Gini is a measure of how each variable contributes to the homo
 
 **Language:** R
 
+**Libraries:** fastDummies, performanceEstimation, plyr, dplyr, tree, randomForest
+
 **Tool:** Rstudio
 
 ## Feedback
