@@ -5,7 +5,7 @@
 
 **Motivation**: We wanted to know what are the leading causes for heart disease.
 
-## Data Source: [Personal Key Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
+## :mag_right: Data Source: [Personal Key Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 
 This dataset is from Kaggle and it contains 320K observations and 18 attributes.
 
@@ -29,14 +29,14 @@ Attributes:
 - KidneyDisease: Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?
 - SkinCancer: (Ever told) (you had) skin cancer?
 
-## Summary
+## :open_book: Summary
 
 1. Performed exploratory data analysis, data cleaning, and data restructuring.
 2. We found that the response variable (Heart Disease) is highly unbalanced so we used the Synthetic Minority Oversampling Technique (SMOTE) to oversample the minority and undersample the majority to create a balanced dataset.
 3. Implemented 3 different machine learning algorithms (logistic regression, decision tree, and random forest).
 4. Evaluated model performance using confusion matrix to get the accuracy and recall score.
 
-## Results
+## :dart: Results
 
 The random forest model yielded the best classification results with 91% accuracy and 93% recall.
 
@@ -57,7 +57,7 @@ Top 5 most importance by Mean Decrease Gini in descending order are:
 - The Mean Decrease Accuracy expresses how much accuracy the model losses by excluding each variable.
 - The Mean Decrease Gini is a measure of how each variable contributes to the homogeneity of the nodes and leaves in the resulting random forest.
 
-## Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 **Language:** R
 
