@@ -1,9 +1,9 @@
 
 # Heart Disease Detection
 
-Goal: To predict the presence of heart disease using various health status.
+**Goal**: To predict the presence of heart disease using various health status.
 
-Motivation: We wanted to know what are the leading causes for heart disease.
+**Motivation**: We wanted to know what are the leading causes for heart disease.
 
 ## Data Source: [Personal Key Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 
@@ -66,7 +66,7 @@ The Mean Decrease Gini is a measure of how each variable contributes to the homo
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to me at LiJake2001@gmail.com
 
 ## Authors
 
