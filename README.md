@@ -54,9 +54,8 @@ Top 5 most importance by Mean Decrease Gini in descending order are:
 4. Difficulty walking
 5. Mental health
 
-The Mean Decrease Accuracy expresses how much accuracy the model losses by excluding each variable.
-
-The Mean Decrease Gini is a measure of how each variable contributes to the homogeneity of the nodes and leaves in the resulting random forest.
+- The Mean Decrease Accuracy expresses how much accuracy the model losses by excluding each variable.
+- The Mean Decrease Gini is a measure of how each variable contributes to the homogeneity of the nodes and leaves in the resulting random forest.
 
 ## Tech Stack
 
