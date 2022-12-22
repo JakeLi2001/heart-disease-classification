@@ -1,7 +1,7 @@
 
 # Heart Disease Detection
 
-**Goal**: To predict the presence of heart disease using various health status.
+**Goal**: To predict the presence of heart disease using various health statuses.
 
 **Motivation**: We wanted to know what are the leading causes for heart disease.
 
