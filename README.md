@@ -9,7 +9,7 @@
 
 This dataset is from Kaggle and it contains 320K observations and 18 attributes.
 
-Attributes:
+Features:
 - HeartDisease: Ever reported having coronary heart disease (CHD) or myocardial infarction (MI)
 - BMI: Body Mass Index (BMI)
 - Smoking: Ever smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes]
